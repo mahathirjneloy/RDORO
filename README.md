@@ -1,0 +1,2 @@
+# RDORO
+Pomodoro app
